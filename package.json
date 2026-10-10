@@ -1,0 +1,20 @@
+{
+  "name": "inconnu-obfuscator",
+  "version": "1.0.0",
+  "description": "Powerful HTML & JavaScript obfuscator - Made by inconnu boy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["obfuscator", "javascript", "html", "protection", "inconnu"],
+  "author": "inconnu boy <https://github.com/INCONNU-BOY>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
